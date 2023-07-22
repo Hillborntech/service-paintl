@@ -1,1 +1,1 @@
-# service-paintl
+# PaintITtheme.github.io
